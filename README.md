@@ -65,6 +65,7 @@ PiyasaSimulation2025/
 │   ├── yavaslama.wav
 │   └── fren.wav
 │
+│
 ├── piyasaSim.py
 ├── tempCodeRunnerFile.py -> Test Kodlari Icindir.
 └── README.md
